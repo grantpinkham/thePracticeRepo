@@ -1,25 +1,3 @@
-// var, let, const
-// var name = 'john doe';
-// console.log(name);
-// name = 'steve smith';
-// console.log(name);
-// // init var
-// var greeting;
-// console.log(greeting);
-// greeting = 'hello';
-// console.log(greeting);
-// // letters, numbers, _, $
-// // cannot start with a number though
-// // multi-word vars
-// var firstName = 'john';
-// var first_name = 'sara';
-// var Firstname = 'steve';
-// var FirstName = 'smith';
-// let
-// let name = 'steve';
-// console.log(name);
-// name = 'joe';
-// console.log(name);
 //const
 const name = 'John';
 console.log(name);
