@@ -15,32 +15,8 @@ val = numbers[0];
 numbers[2] = 100;
 //find index of value
 val = numbers.indexOf(36);
-//mutating arrays
-// //add on to end
-// numbers.push(250);
-// //add onto front
-// numbers.unshift(120);
-// //take off end
-// numbers.pop();
-// // take off front
-// numbers.shift();
-// //splice values
-// numbers.splice(1, 3);
-// //reverse
-// numbers.reverse();
 //concat array
 val = numbers.concat(numbers2);
-//sort
-// val = fruit.sort();
-// val = numbers.sort();
-// //use compare function
-// val = numbers.sort(function(x, y){
-//     return x - y;
-// })
-// // reverse sort
-// val = numbers.sort(function(x, y){
-//     return y - x;
-// })
 // find
 function over50(num) {
     return num > 50;
