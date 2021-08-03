@@ -1,8 +1,3 @@
-// if (something) {
-//     do something
-// } else {
-//     do something else
-// }
 const id = 100;
 //equal to
 if (id == 101) {
