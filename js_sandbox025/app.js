@@ -5,9 +5,6 @@ function greet(firstName, lastName) {
 const square = function (x = 3) {
     return x * x;
 };
-// (function (name) {
-//     console.log('hello ' + name);
-// })('brad');
 //property methods
 const todo = {
     add: function() {
