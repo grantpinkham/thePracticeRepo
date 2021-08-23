@@ -6,7 +6,6 @@ function greet(firstName, lastName) {
 const square = function (x = 3) {
     return x * x;
 };
-// console.log(square());
 //immediately invokable function expressions - iifes
 // (function () {
 //     console.log('IIFE Ran...');
