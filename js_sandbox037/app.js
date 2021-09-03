@@ -1,7 +1,6 @@
 const form = document.querySelector('form');
 const taskInput = document.getElementById('task');
 const heading = document.querySelector('h5');
-//clear input
 taskInput.value = '';
 //submit
 // form.addEventListener('submit', runEvent);
