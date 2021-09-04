@@ -2,8 +2,6 @@ const form = document.querySelector('form');
 const taskInput = document.getElementById('task');
 const heading = document.querySelector('h5');
 taskInput.value = '';
-//submit
-// form.addEventListener('submit', runEvent);
 //keydown
 taskInput.addEventListener('keydown', runEvent);
 //keyup
