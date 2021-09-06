@@ -4,12 +4,7 @@ const heading = document.querySelector('h5');
 taskInput.value = '';
 //keydown
 taskInput.addEventListener('keydown', runEvent);
-//keyup
-// taskInput.addEventListener('keyup', runEvent);
 function runEvent(e) {
   console.log(`event type is ${e.type}`);
   console.log(e.target.value);
-  //get input value
-  // console.log(taskInput.value);
-  // e.preventDefault();
 }
