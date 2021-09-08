@@ -1,6 +1,6 @@
 const cats = [
   cat1 = {
-    color: 'orange',
+    color: 'black',
     age: 4,
     personality: 'mellow',
     favoriteFood: 'tuna'
