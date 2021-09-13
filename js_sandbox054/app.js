@@ -7,6 +7,6 @@ function PersonInWater(name, weight) {
   }
 }
 const person1 = new PersonInWater('tim', 180);
-console.log(person1.calculateWeight());
 const person2 = new PersonInWater('tony', 120);
+console.log(person1.calculateWeight());
 console.log(person2.calculateWeight());
