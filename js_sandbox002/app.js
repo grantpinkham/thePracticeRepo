@@ -4,10 +4,10 @@ console.log(name);
 // cannot reassign a const
 // const needs a value
 const person = {
-    name: 'john',
+    name: 'tom',
     age: 30
 }
-person.name = 'sara';
+person.name = 'beth';
 console.log(person);
 person.age = 32;
 console.log(person)
