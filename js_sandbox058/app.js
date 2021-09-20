@@ -1,5 +1,5 @@
 let countdown = 10;
-console.log('commencing space launch in...');
+console.log('initiating space launch in...');
 for (let i = 10; i <= 10; i--) {
   countdown = i;
   console.log(countdown);
