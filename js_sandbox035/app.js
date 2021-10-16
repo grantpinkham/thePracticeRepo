@@ -1,4 +1,4 @@
 document.querySelector('.clear-tasks').addEventListener('click', function (e){
-  console.log('hello');
+  console.log('Hello');
   e.preventDefault();
 })
