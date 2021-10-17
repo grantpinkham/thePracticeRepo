@@ -1,5 +1,5 @@
 let isVertical = true;
-console.log('this text is horizontal')
+console.log('this text is horizontal');
 switch (isVertical) {
   case true:
     console.log('t');
