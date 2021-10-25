@@ -1,5 +1,5 @@
 const timeOfDay = ['morning', 'afternoon', 'night'];
-const userInput = timeOfDay[0];
+const userInput = timeOfDay[1];
 const determineTimeOfDay = () => {
   if (userInput === timeOfDay[0]) {
     console.log('i need coffee')
