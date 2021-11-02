@@ -1,25 +1,25 @@
 let count = 0;
 for (let i = 0; i <= 5; i++) {
   count = i;
-  console.log('number form is ' + count);
+  console.log('number format is ' + count);
   switch (count) {
     case 0:
-      console.log('text form is zero');
+      console.log('text format is zero');
       break;
     case 1:
-      console.log('text form is one');
+      console.log('text format is one');
       break;
     case 2:
-      console.log('text form is two');
+      console.log('text format is two');
       break;
     case 3:
-      console.log('text form is three');
+      console.log('text format is three');
       break;
     case 4:
-      console.log('text form is four');
+      console.log('text format is four');
       break;
     case 5:
-      console.log('text form is five');
+      console.log('text format is five');
       break;
   }
 }
