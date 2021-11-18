@@ -3,7 +3,7 @@ function greet(firstName, lastName) {
     return 'hello ' + firstName + ' ' + lastName;
 }
 //function expressions
-const square = function (num = 3) {
+const square = function (num = 2) {
     return num * num;
 };
 //property methods
