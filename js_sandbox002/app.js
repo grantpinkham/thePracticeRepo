@@ -1,5 +1,5 @@
 //const
-const name = 'John';
+const name = 'john';
 console.log(name);
 // cannot reassign a const
 // const needs a value
