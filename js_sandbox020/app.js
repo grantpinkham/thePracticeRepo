@@ -1,4 +1,4 @@
-const color = 'blue';
+const color = 'red';
 switch (color) {
     case 'red':
         console.log('color is red');
