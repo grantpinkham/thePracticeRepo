@@ -1,4 +1,4 @@
-const color = 'yellow';
+const color = 'red';
 if (color === 'red') {
     console.log('color is red');
 } else if (color === 'blue') {
