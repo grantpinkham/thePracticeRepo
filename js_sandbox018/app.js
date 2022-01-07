@@ -1,5 +1,5 @@
 // logical operators
-const name = 'steven';
+const name = 'mike';
 const age = 20;
 const id = 100;
 // and &&
