@@ -1,6 +1,6 @@
 //primitive
 //string
-const name = 'jon doe';
+const name = 'john doe';
 console.log(typeof name);
 //number
 const age = 32;
