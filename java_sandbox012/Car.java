@@ -4,7 +4,7 @@ public class Car extends Vehicle {
     private boolean sportsCar;
     private boolean sedan;
     public Car(boolean sportsCar, boolean sedan) {
-        super(4, 1, 4, true);
+        super(3, 1, 4, true);
     }
     private void transport(int num) {
         System.out.println("Car.transport() called");
