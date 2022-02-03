@@ -1,5 +1,5 @@
 //function declarations
 function greet() {
-    return 'hello';
+    return 'Hello';
 }
 console.log(greet());
