@@ -1,7 +1,7 @@
 // logical operators
 const name = 'mike';
 const age = 20;
-const id = 100;
+const id = 101;
 // and &&
 if (age > 0 && age < 12) {
     console.log(`${name} is a child`);
