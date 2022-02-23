@@ -1,5 +1,5 @@
-const firstName = 'William';
-const lastName = 'Johnson';
+const firstName = 'bill';
+const lastName = 'johnson';
 const age = 36;
 const str = 'hello there my name is brad'
 const tags = 'web design, web development, programming';

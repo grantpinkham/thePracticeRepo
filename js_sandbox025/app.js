@@ -1,14 +1,14 @@
 //function declarations
 function greet(firstName, lastName) {
-    return 'hello ' + firstName + ' ' + lastName;
+    return 'Hello ' + firstName + ' ' + lastName;
 }
-const square = function (x = 3) {
+const square = function (x = 4) {
     return x * x;
 };
 //property methods
 const todo = {
     add: function() {
-        console.log('add todo...');
+        console.log('Add todo...');
     }
 }
 todo.add();

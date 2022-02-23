@@ -1,5 +1,4 @@
 let time = 0;
-let infinity;
 let responsibilities = 0;
 function addTime(num) {
   return +10;

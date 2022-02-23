@@ -1,4 +1,4 @@
-const color = 'blue';
+const color = 'red';
 switch (color) {
     case 'red':
         console.log('color is red');
@@ -14,25 +14,25 @@ switch (color) {
 let day;
 switch (new Date().getDay()) {
     case 0:
-        day = 'Sunday';
+        day = 'sunday';
         break;
     case 1:
-        day = 'Monday';
+        day = 'monday';
         break;
     case 2:
-        day = 'Tuesday';
+        day = 'tuesday';
         break;
     case 3:
-        day = 'Wednesday';
+        day = 'wednesday';
         break;
     case 4:
-        day = 'Thursday';
+        day = 'thursday';
         break;
     case 5:
-        day = 'Friday';
+        day = 'friday';
         break;
     case 6:
-        day = 'Saturday';
+        day = 'saturday';
         break;
 }
 console.log(`today is ${day}`);
