@@ -1,4 +1,4 @@
-let count = 0;
+let count = 5;
 for (let i = 0; i <= 5; i++) {
   count = i;
   console.log('number format is ' + count);
