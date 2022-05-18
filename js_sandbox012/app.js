@@ -1,4 +1,4 @@
-const id = 101;
+const id = 100;
 //equal to
 if (id == 101) {
     console.log('correct');
