@@ -1,7 +1,7 @@
 const catchBillOrTed = [
   {name: 'bill', city: 'toronto'},
   {name: 'ted', city: 'atlanta'},
-  {name: 'bill', city: 'memphis'},
+  {name: 'bill', city: 'knoxville'},
   {name: 'ted', city: 'new york'},
   {name: 'bill', city: 'philadelphia'},
   {name: 'ted', city: 'boston'}
