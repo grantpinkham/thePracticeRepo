@@ -1,4 +1,4 @@
-const iniMeeny = [['ini'], ['meeny'], ['miny'], ['moe'], [[['tag! your it!']]]];
+const iniMeeny = [['Ini'], ['Meeny'], ['Miny'], ['Moe'], [[['Tag! your it!']]]];
 const startIniMeeny = () => {
   const iniMeenyLength = iniMeeny.length;
   const newIniMeeny = iniMeeny.flat(50);
