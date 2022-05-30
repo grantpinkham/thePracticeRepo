@@ -1,4 +1,4 @@
-console.log('above the number 10 and below the number 100, these are the numbers divisible by both 2 and 3');
+console.log('Above the number 10 and below the number 100, these are the numbers divisible by both 2 and 3.');
 for (let i = 2; i <= 100; i++) {
   while (i <= 6) {
     i += i;
