@@ -1,4 +1,4 @@
-function PersonInWater(name, weight) {
+function PersonImmersedInWater(name, weight) {
   this.name = name;
   this.calculateWeight = function () {
     const diff = weight - 20;
@@ -6,7 +6,7 @@ function PersonInWater(name, weight) {
     return newWeight;
   }
 }
-const person1 = new PersonInWater('tim', 180);
-const person2 = new PersonInWater('tony', 120);
+const person1 = new PersonImmersedInWater('tim', 180);
+const person2 = new PersonImmersedInWater('tony', 120);
 console.log(person1.calculateWeight());
 console.log(person2.calculateWeight());
