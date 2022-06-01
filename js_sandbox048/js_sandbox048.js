@@ -4,13 +4,13 @@ function ballsAvailable(balls) {
 }
 function juggle(balls) {
   if (balls === 0) {
-    console.log('there are no balls to juggle!');
+    console.log('There are no balls to juggle!');
   } else if (balls === 1) {
-    console.log('i guess i can juggle just 1 ball...');
+    console.log('I guess I can juggle just 1 ball...');
   } else if (balls === 2) {
-    console.log('juggling has now gotten fun!');
+    console.log('Juggling has now gotten fun!');
   } else if (balls === 3) {
-    console.log('juggling has now gotten challenging!');
+    console.log('Juggling has now gotten challenging!');
   }
 }
 ballsAvailable(0);
