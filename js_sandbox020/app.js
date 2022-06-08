@@ -1,13 +1,13 @@
-const color = 'red';
+const color = 'Red';
 switch (color) {
     case 'red':
-        console.log('color is red');
+        console.log('Color is Red');
         break;
     case 'blue':
-        console.log('color is blue');
+        console.log('Color is Blue');
         break;
     default:
-        console.log('color is not red or blue');
+        console.log('Color is not Red or Blue');
         break;
 }
 
