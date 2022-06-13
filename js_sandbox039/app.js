@@ -1,21 +1,21 @@
 const cats = [
   cat1 = {
-    color: 'black',
+    color: 'Black',
     age: 4,
-    personality: 'mellow',
-    favoriteFood: 'tuna'
+    personality: 'Mellow',
+    favoriteFood: 'Tuna'
   },
   cat2 = {
-    color: 'spotty',
+    color: 'Spotty',
     age: 6,
-    personality: 'nonchalant',
-    favoriteFood: 'meowmix'
+    personality: 'Nonchalant',
+    favoriteFood: 'Meowmix'
   },
   cat3 = {
-    color: 'grey',
+    color: 'Grey',
     age: 3,
-    personality: 'fearless',
-    favoriteFood: 'kibble and bits'
+    personality: 'Fearless',
+    favoriteFood: 'Kibbles and Bits'
   }
 ];
 console.log(cats);
