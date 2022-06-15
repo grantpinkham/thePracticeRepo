@@ -8,6 +8,6 @@ switch (isItABC) {
     console.log('followed by a \'C\'.')
     break;
   default:
-    console.log('no clue.');
+    console.log('No clue.');
     break;
 }
