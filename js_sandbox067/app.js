@@ -1,4 +1,4 @@
-const jsArray = ['j',
+const jsArray = ['J',
                  'a',
                  'v',
                  'a',
