@@ -6,9 +6,9 @@ const notGoingToChuckECheese = () => {
 }
 var areWeGoingToChuckECheese = () => {
   if (goingToChuckECheese() == true) {
-    console.log("yayyy");
+    console.log("Yayyy.");
   } else {
-    console.log("awwww");
+    console.log("Awwww.");
   }
 }
 areWeGoingToChuckECheese();
