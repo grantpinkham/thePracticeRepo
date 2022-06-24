@@ -2,7 +2,7 @@ const form = document.querySelector('form');
 const taskInput = document.getElementById('task');
 const heading = document.querySelector('h1');
 taskInput.value = '';
-//keydown
+// keydown
 taskInput.addEventListener('keydown', runEvent);
 function runEvent(e) {
   console.log(`event type is ${e.type}`);
