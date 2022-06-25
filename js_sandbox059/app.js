@@ -3,7 +3,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      string: 'link text'
+      string: 'Link text'
     }
   }
   render() {
