@@ -1,6 +1,6 @@
 const form = document.querySelector('form');
 const taskInput = document.getElementById('task');
-const heading = document.querySelector('h1');
+const heading = document.querySelector('h2');
 taskInput.value = '';
 // keydown
 taskInput.addEventListener('keydown', runEvent);
