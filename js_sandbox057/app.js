@@ -9,7 +9,7 @@ function decreaseTime(num) {
 }
 decreaseTime();
 if (responsibilities === 0) {
-  console.log('must be nice');
+  console.log('Must be nice.');
 } else {
   console.log(decreaseTime());
 }
