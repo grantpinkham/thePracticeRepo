@@ -6,7 +6,7 @@ function PersonImmersedInWater(name, weight) {
     return newWeight;
   }
 }
-const person1 = new PersonImmersedInWater('tim', 180);
-const person2 = new PersonImmersedInWater('tony', 120);
+const person1 = new PersonImmersedInWater('Tim', 180);
+const person2 = new PersonImmersedInWater('Tony', 120);
 console.log(person1.calculateWeight());
 console.log(person2.calculateWeight());
